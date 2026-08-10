@@ -1,18 +1,23 @@
 <div align="center" width="50">
 
-
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Eslam-3laa" alt="Workspace"  width="40%"/><br>
 
-
-
+![Totals Hits](https://komarev.com/ghpvc/?username=Eslam-3laa&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEslam-3laa&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
 <hr></hr>
 
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eslam-portfolio-mdm3.vercel.app/)
+
+<a href="https://eslam-portfolio-mdm3.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+
+</div>
+
+<hr></hr>
+
+<div align="center">
 
 <hr>
 
@@ -88,10 +93,10 @@ class About {
 
 ### 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ea33669900@gmail.com)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073601922128&locale=ar_AR)
-[![Codeforces](https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Eslam-3laa)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eslam_3laa_11/)
+<a href="mailto:ea33669900@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.facebook.com/profile.php?id=100073601922128&locale=ar_AR"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://codeforces.com/profile/Eslam-3laa"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://www.instagram.com/eslam_3laa_11/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
