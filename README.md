@@ -3,8 +3,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Eslam-3laa" alt="Workspace"  width="40%"/><br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Eslam-3laa&style=flat&color=orange&label=PROFILE+VIEWS)
-3laa&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
 
 </div>
 
