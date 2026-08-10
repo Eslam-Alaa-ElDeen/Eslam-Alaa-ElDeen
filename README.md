@@ -94,9 +94,6 @@ class About {
 
 ### 📬 Let's Connect
 
-<a href="mailto:ea33669900@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.facebook.com/profile.php?id=100073601922128&locale=ar_AR"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://codeforces.com/profile/Eslam-3laa"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://www.instagram.com/eslam_3laa_11/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:ea33669900@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/eslam-alaa-sherif/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.facebook.com/profile.php?id=100073601922128&locale=ar_AR"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> <a href="https://codeforces.com/profile/Eslam-3laa"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a> <a href="https://www.instagram.com/eslam_3laa_11/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
