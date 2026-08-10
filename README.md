@@ -10,15 +10,22 @@
 
 <hr></hr>
 
-### 👋 About Me
+<div align="center">
 
-**Eslam Alaa**
-Front-End Engineer • Back-End Engineer • Competitive Programmer
+<hr>
+
+### Eslam Alaa
+
+<hr>
+
+**Front-End Engineer • Back-End Engineer • Competitive Programmer**
 
 Building modern web experiences with clean code & elegant design.
-🎓 CS Student @ Damanhour University · ITI MERN Stack
+CS Student @ Damanhour University · ITI MERN Stack
 
-<hr></hr>
+<hr>
+
+</div>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 <br>
@@ -79,10 +86,10 @@ class About {
 
 ### 📬 Let's Connect
 
-<a href="mailto:ea33669900@gmail.com">📧</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100073601922128&locale=ar_AR">📘</a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Eslam-3laa">🏆</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/eslam_3laa_11/">📸</a>
+[![Email](https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ea33669900@gmail.com)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073601922128&locale=ar_AR)
+[![Codeforces](https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Eslam-3laa)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eslam_3laa_11/)
 
 </div>
 
