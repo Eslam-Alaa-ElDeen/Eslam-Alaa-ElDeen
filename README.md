@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Eslam-3laa" alt="Hello Coders" width="60%"/> <br>
+<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Eslam-3laa" alt="Workspace"  width="40%"/><br>
 
 
